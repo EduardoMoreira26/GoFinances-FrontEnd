@@ -4,6 +4,7 @@ interface CardProps {
   total?: boolean;
 }
 
+
 export const Container = styled.div`
   width: 100%;
   max-width: 1120px;
